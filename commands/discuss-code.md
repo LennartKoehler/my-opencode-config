@@ -1,6 +1,6 @@
 ---
 description: Discuss code issues with clear findings
-agent: build 
+agent: build
 model: openai/gpt-5.5-fast
 ---
 
