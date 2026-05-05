@@ -4,7 +4,7 @@
     "@franlol/opencode-md-table-formatter@0.0.3",
     "@mohak34/opencode-notifier@latest"
   ],
-  "default_agent": "build",
+  "default_agent": "discuss-task",
   "mcp": {
     "context7": {
       "type": "remote",
