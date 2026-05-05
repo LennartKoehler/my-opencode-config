@@ -16,7 +16,6 @@ Feel free to:
 ├── AGENTS.md          # Personal preferences & coding guidelines
 ├── opencode.json      # Main config (plugins, MCP servers, providers)
 ├── agents/            # Custom agents for specialized tasks
-├── skills/            # executable knowledge notes
 ├── commands/          # Custom slash commands
 └── scripts/           # Helper scripts 
 ```
@@ -38,18 +37,20 @@ Feel free to:
 
 Skills are **executable knowledge notes** — my personal "second brain" converted into actionable guidance for the AI agent.
 
+The full skills library now lives in [`flpbalada/fb-skills`](https://github.com/flpbalada/fb-skills).
+
 | Category | Skills |
 |----------|--------|
-| TypeScript | [best practices](./skills/typescript-best-practices/SKILL.md), [advanced types](./skills/typescript-advanced-types/SKILL.md), [`satisfies` operator](./skills/typescript-satisfies-operator/SKILL.md), [interface vs type](./skills/typescript-interface-vs-type/SKILL.md) |
-| React | [`useState`](./skills/react-use-state/SKILL.md), [`useCallback`](./skills/react-use-callback/SKILL.md), [`key` prop](./skills/react-key-prop/SKILL.md), [`"use client"` boundaries](./skills/react-use-client-boundary/SKILL.md) |
-| CSS | [container queries](./skills/css-container-queries/SKILL.md), [Tailwind v4 best practices](./skills/code-architecture-tailwind-v4-best-practices/SKILL.md) |
-| Architecture | [naming conventions](./skills/naming-cheatsheet/SKILL.md), [project structure](./skills/project-structure/SKILL.md), [wrong abstraction patterns](./skills/code-architecture-wrong-abstraction/SKILL.md) |
-| Product Frameworks | [Jobs-to-be-Done](./skills/jobs-to-be-done/SKILL.md), [Business Model Canvas](./skills/business-model-canvas/SKILL.md), [Hooked Model](./skills/hooked-model/SKILL.md), [Fogg Behavior Model](./skills/fogg-behavior-model/SKILL.md), [PEST analysis](./skills/pest-analysis/SKILL.md), [product decisions](./skills/making-product-decisions/SKILL.md) |
-| UX Psychology | [cognitive load](./skills/cognitive-load/SKILL.md), [cognitive biases](./skills/cognitive-biases/SKILL.md), [cognitive fluency](./skills/cognitive-fluency-psychology/SKILL.md), [Hick's law](./skills/hicks-law/SKILL.md), [progressive disclosure](./skills/progressive-disclosure/SKILL.md), [trust signals](./skills/trust-psychology/SKILL.md), [halo effect](./skills/halo-effect-psychology/SKILL.md) |
-| Behavioral Design | [loss aversion](./skills/loss-aversion-psychology/SKILL.md), [status quo bias](./skills/status-quo-bias/SKILL.md), [social proof](./skills/social-proof-psychology/SKILL.md), [curiosity gap](./skills/curiosity-gap/SKILL.md), [self-initiated triggers](./skills/self-initiated-triggers/SKILL.md), [visual cues & CTAs](./skills/visual-cues-cta-psychology/SKILL.md) |
-| Decision Making | [hypothesis trees](./skills/hypothesis-tree/SKILL.md), [five whys](./skills/five-whys/SKILL.md), [graph thinking](./skills/graph-thinking/SKILL.md), [game theory (tit-for-tat)](./skills/game-theory-tit-for-tat/SKILL.md) |
-| Agile | [Kanban](./skills/kanban/SKILL.md), [theme-epic-story hierarchy](./skills/theme-epic-story/SKILL.md), [user stories](./skills/user-story-fundamentals/SKILL.md) |
-| Product Management | [what not to do as PM](./skills/what-not-to-do-as-product-manager/SKILL.md) |
+| TypeScript | [best practices](https://github.com/flpbalada/fb-skills/blob/main/skills/typescript-best-practices/SKILL.md), [advanced types](https://github.com/flpbalada/fb-skills/blob/main/skills/typescript-advanced-types/SKILL.md), [`satisfies` operator](https://github.com/flpbalada/fb-skills/blob/main/skills/typescript-satisfies-operator/SKILL.md), [interface vs type](https://github.com/flpbalada/fb-skills/blob/main/skills/typescript-interface-vs-type/SKILL.md) |
+| React | [`useState`](https://github.com/flpbalada/fb-skills/blob/main/skills/react-use-state/SKILL.md), [`useCallback`](https://github.com/flpbalada/fb-skills/blob/main/skills/react-use-callback/SKILL.md), [`key` prop](https://github.com/flpbalada/fb-skills/blob/main/skills/react-key-prop/SKILL.md), [`"use client"` boundaries](https://github.com/flpbalada/fb-skills/blob/main/skills/react-use-client-boundary/SKILL.md) |
+| CSS | [container queries](https://github.com/flpbalada/fb-skills/blob/main/skills/css-container-queries/SKILL.md), [Tailwind v4 best practices](https://github.com/flpbalada/fb-skills/blob/main/skills/code-architecture-tailwind-v4-best-practices/SKILL.md) |
+| Architecture | [naming conventions](https://github.com/flpbalada/fb-skills/blob/main/skills/naming-cheatsheet/SKILL.md), [project structure](https://github.com/flpbalada/fb-skills/blob/main/skills/project-structure/SKILL.md), [wrong abstraction patterns](https://github.com/flpbalada/fb-skills/blob/main/skills/code-architecture-wrong-abstraction/SKILL.md) |
+| Product Frameworks | [Jobs-to-be-Done](https://github.com/flpbalada/fb-skills/blob/main/skills/jobs-to-be-done/SKILL.md), [Business Model Canvas](https://github.com/flpbalada/fb-skills/blob/main/skills/business-model-canvas/SKILL.md), [Hooked Model](https://github.com/flpbalada/fb-skills/blob/main/skills/hooked-model/SKILL.md), [Fogg Behavior Model](https://github.com/flpbalada/fb-skills/blob/main/skills/fogg-behavior-model/SKILL.md), [PEST analysis](https://github.com/flpbalada/fb-skills/blob/main/skills/pest-analysis/SKILL.md), [product decisions](https://github.com/flpbalada/fb-skills/blob/main/skills/making-product-decisions/SKILL.md) |
+| UX Psychology | [cognitive load](https://github.com/flpbalada/fb-skills/blob/main/skills/cognitive-load/SKILL.md), [cognitive biases](https://github.com/flpbalada/fb-skills/blob/main/skills/cognitive-biases/SKILL.md), [cognitive fluency](https://github.com/flpbalada/fb-skills/blob/main/skills/cognitive-fluency-psychology/SKILL.md), [Hick's law](https://github.com/flpbalada/fb-skills/blob/main/skills/hicks-law/SKILL.md), [progressive disclosure](https://github.com/flpbalada/fb-skills/blob/main/skills/progressive-disclosure/SKILL.md), [trust signals](https://github.com/flpbalada/fb-skills/blob/main/skills/trust-psychology/SKILL.md), [halo effect](https://github.com/flpbalada/fb-skills/blob/main/skills/halo-effect-psychology/SKILL.md) |
+| Behavioral Design | [loss aversion](https://github.com/flpbalada/fb-skills/blob/main/skills/loss-aversion-psychology/SKILL.md), [status quo bias](https://github.com/flpbalada/fb-skills/blob/main/skills/status-quo-bias/SKILL.md), [social proof](https://github.com/flpbalada/fb-skills/blob/main/skills/social-proof-psychology/SKILL.md), [curiosity gap](https://github.com/flpbalada/fb-skills/blob/main/skills/curiosity-gap/SKILL.md), [self-initiated triggers](https://github.com/flpbalada/fb-skills/blob/main/skills/self-initiated-triggers/SKILL.md), [visual cues & CTAs](https://github.com/flpbalada/fb-skills/blob/main/skills/visual-cues-cta-psychology/SKILL.md) |
+| Decision Making | [hypothesis trees](https://github.com/flpbalada/fb-skills/blob/main/skills/hypothesis-tree/SKILL.md), [five whys](https://github.com/flpbalada/fb-skills/blob/main/skills/five-whys/SKILL.md), [graph thinking](https://github.com/flpbalada/fb-skills/blob/main/skills/graph-thinking/SKILL.md), [game theory (tit-for-tat)](https://github.com/flpbalada/fb-skills/blob/main/skills/game-theory-tit-for-tat/SKILL.md) |
+| Agile | [Kanban](https://github.com/flpbalada/fb-skills/blob/main/skills/kanban/SKILL.md), [theme-epic-story hierarchy](https://github.com/flpbalada/fb-skills/blob/main/skills/theme-epic-story/SKILL.md), [user stories](https://github.com/flpbalada/fb-skills/blob/main/skills/user-story-fundamentals/SKILL.md) |
+| Product Management | [what not to do as PM](https://github.com/flpbalada/fb-skills/blob/main/skills/what-not-to-do-as-product-manager/SKILL.md) |
 
 ## MCP Servers
 
@@ -65,6 +66,7 @@ Skills are **executable knowledge notes** — my personal "second brain" convert
 ## Resources
 
 - [OpenCode Documentation](https://opencode.ai/docs)
+- [Skills Repository](https://github.com/flpbalada/fb-skills)
 - [Skills Guide](https://opencode.ai/docs/skills)
 - [Agents Guide](https://opencode.ai/docs/agents)
 
