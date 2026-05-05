@@ -1,6 +1,6 @@
 ---
 description: Review architecture and refactor after approval
-agent: build
+agent: architecture-reviewer
 model: openai/gpt-5.5
 ---
 

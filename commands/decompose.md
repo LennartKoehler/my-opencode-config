@@ -1,6 +1,6 @@
 ---
 description: Decompose component into smaller units
-agent: refactoring
+agent: decomposer
 model: openai/gpt-5.5
 ---
 

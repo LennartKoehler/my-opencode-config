@@ -1,6 +1,6 @@
 ---
 description: Convert input into PRD requirements
-agent: requirements-analyzer
+agent: prd-writer
 model: openai/gpt-5.5
 ---
 
