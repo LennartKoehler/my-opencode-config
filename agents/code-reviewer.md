@@ -1,7 +1,7 @@
 ---
 name: code-reviewer
 description: Perform focused code review by detecting smells and deep-diving concerns
-model: openai/gpt-5.5
+mode: subagent
 permission:
   edit: deny
   write: deny

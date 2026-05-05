@@ -1,7 +1,7 @@
 ---
 name: branch-summarizer
 description: Generate a concise PR description from branch commits.
-model: openai/gpt-5.5-fast
+mode: subagent
 permission:
   edit: deny
   write: deny

@@ -1,7 +1,6 @@
 ---
 name: refactoring
 description: Plans and implements code refactoring with intelligent skill loading. Use when restructuring code, improving maintainability, or applying best practices without changing behavior.
-model: openai/gpt-5.5
 ---
 
 ## Role

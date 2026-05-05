@@ -1,7 +1,7 @@
 ---
 name: pattern-learner
 description: Extract reusable patterns from the current session.
-model: openai/gpt-5.5
+mode: subagent
 permission:
   edit: ask
   write: ask

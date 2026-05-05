@@ -1,7 +1,7 @@
 ---
 name: architecture-reviewer
 description: Review architecture and refactor only after approval.
-model: openai/gpt-5.5
+mode: subagent
 permission:
   edit: ask
   write: ask

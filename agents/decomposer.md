@@ -1,7 +1,7 @@
 ---
 name: decomposer
 description: Split a component into focused units.
-model: openai/gpt-5.5
+mode: subagent
 permission:
   edit: ask
   write: ask
