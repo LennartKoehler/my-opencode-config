@@ -2,469 +2,469 @@
   "version": 1,
   "skills": {
     "agent-harness-orchestration": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/agent-harness-orchestration/SKILL.md",
       "computedHash": "b014d05aa78e591981c5bbfd9903043e272da6c1a7ca5b57c22fde9f1d061bdd"
     },
     "architecture-review": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/architecture-review/SKILL.md",
       "computedHash": "757f8c791375c6dc568e7c64c9b19efe1937374bf6bdade596ed52ee02b12864"
     },
     "business-model-canvas": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/business-model-canvas/SKILL.md",
       "computedHash": "54669eac6ee7ace4ac3281a9541e0555085054b8cc63749f6d0419f9589e056d"
     },
     "code-architecture-tailwind-v4-best-practices": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/code-architecture-tailwind-v4-best-practices/SKILL.md",
       "computedHash": "4e2dc68ec6ca1c88495d3bdf054fbb448d553eb37c9795e0e94ec9feb5895fbf"
     },
     "code-architecture-wrong-abstraction": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/code-architecture-wrong-abstraction/SKILL.md",
       "computedHash": "42959432b673a31e77de1df7a7b65aeae049991a22a2be9545209ae82df75e2a"
     },
     "code-reviewer": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/code-reviewer/SKILL.md",
       "computedHash": "20e0b1442e7bd7993d5c56ef156f30f0ad7cdb0541ea5bceba3a4128b06ee136"
     },
     "code-simplifier": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/code-simplifier/SKILL.md",
       "computedHash": "a21a80ecfd39ab3b9258477cb665269a42975a7786e7f841e521659ea066caad"
     },
     "cognitive-biases": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/cognitive-biases/SKILL.md",
       "computedHash": "3818e6b75331e4e3c0949603d65657576faa8a3bd9a962fcb9ef02dc787e4288"
     },
     "cognitive-fluency-psychology": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/cognitive-fluency-psychology/SKILL.md",
       "computedHash": "bc4eb0a8d1218da7cfd853bcdc9a20b90297822dcfcedc45cdb9351ff3de2286"
     },
     "cognitive-load": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/cognitive-load/SKILL.md",
       "computedHash": "b07f38ec2e8a1f7d3fe5e4078e3013331794321be5dd1a7f72e627239eda4b57"
     },
     "conventional-commit": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/conventional-commit/SKILL.md",
       "computedHash": "be02b7582f9e7720e1ddcac841ab8a02e23d949861f29aff0cbfafb585b7ad87"
     },
     "css-container-queries": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/css-container-queries/SKILL.md",
       "computedHash": "a6c458496049e1168cad3d8af48ffcc7ea88f4b43d8daa318fca4dbec58c85d5"
     },
     "curiosity-gap": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/curiosity-gap/SKILL.md",
       "computedHash": "7dad45705ba1623ec3171d92b7371f1ea49f1e25754d81e31182bd693469cb86"
     },
     "decompose": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/decompose/SKILL.md",
       "computedHash": "230d35777dcc9cf92887355c3593a846f47302303c39d72ac4163f6ceddd0040"
     },
     "deep-thinker": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/deep-thinker/SKILL.md",
       "computedHash": "152cd9cd3114a6b5b883530dde6c0e639e1adcc29a5fa16e01eed7e903b07f53"
     },
     "deliberate-practice": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/deliberate-practice/SKILL.md",
       "computedHash": "142a436f53e3b642d05749079d2e7534336140db7a3b3fba4fa2d549134a5f2f"
     },
     "discuss-code": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/discuss-code/SKILL.md",
       "computedHash": "f1fbd9862f0819c1e1ace19a8fd2653669e4eb487610a4b4e90e664f2a52474b"
     },
     "discuss-task": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/discuss-task/SKILL.md",
       "computedHash": "253ffbbeaeee64492afccf0c4a9cab71db1b907c983f6a9b63408fa46e649bf5"
     },
     "dogfood": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/dogfood/SKILL.md",
       "computedHash": "1c9c0064566897288f6d3deef9c0f8cfa44e0b57f363f5ec0b50184f9e16d802"
     },
     "effort-estimator": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/effort-estimator/SKILL.md",
       "computedHash": "91e19dbf87af756f1dc09d89dee4d486ca2fde03040ece221870c3e9c4d55c67"
     },
     "electron": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/electron/SKILL.md",
       "computedHash": "73a1e5ba91db210a51ac159ade9f241867f53cbedadd363ae41af8ddedcdd1b4"
     },
     "evaluator-optimizer": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/evaluator-optimizer/SKILL.md",
       "computedHash": "e4dd5dc18db3f360cc867baa9e86213c3ed33b416d2c30ba158f3f62f610b299"
     },
     "five-whys": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/five-whys/SKILL.md",
       "computedHash": "11c5ebab4cae2b64fedc3e24d6b9db0d6c7b30e8b6428880ce4eb5e4f092390d"
     },
     "fogg-behavior-model": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/fogg-behavior-model/SKILL.md",
       "computedHash": "b75ead64957421f698d0d24cddbc77a6fcba9642b891d155c6c0df61df17e078"
     },
     "follow-goals": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/follow-goals/SKILL.md",
       "computedHash": "28b3b64fc79ab96b74378c3a897d45c9ebf882f60d734e5c515776f7dd99638d"
     },
     "game-theory-tit-for-tat": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/game-theory-tit-for-tat/SKILL.md",
       "computedHash": "6fcf7631750622bab80cd3e00baf58cbfa96e7a0fb285424ee5f5abcabd96f01"
     },
     "graph-thinking": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/graph-thinking/SKILL.md",
       "computedHash": "bf6c66e94067749bb449033d5e2cb0acb52060f31e006e97a103a15b85679da0"
     },
     "halo-effect-psychology": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/halo-effect-psychology/SKILL.md",
       "computedHash": "7564340f5a7e25c28b1ee846ae1afebb12923afc5f6a94eb3c0abd8fd0cdeffa"
     },
     "hicks-law": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/hicks-law/SKILL.md",
       "computedHash": "0a6e9161b86923c0fccf84018c79d836f10aa3516da629e845e41dfd15f7d106"
     },
     "hooked-model": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/hooked-model/SKILL.md",
       "computedHash": "2bd4ccfa1c2becf4382e7b7e365d0c6eb26d8a99aad09e1766a7dadd0624222e"
     },
     "hypothesis-tree": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/hypothesis-tree/SKILL.md",
       "computedHash": "09edf3362f306d021450f5795280a6770fe6045549b76878dadc174e4fb4ba98"
     },
     "jobs-to-be-done": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/jobs-to-be-done/SKILL.md",
       "computedHash": "41777188cdb6dd14a4622041cbb6069ec706a84385b8be3539a6b889c80ca1e1"
     },
     "kaizen": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/kaizen/SKILL.md",
       "computedHash": "6e27dd22b32faaa2a8ee27885a8554115bcf9901aaf4aef6e1b26670056de3a5"
     },
     "kanban": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/kanban/SKILL.md",
       "computedHash": "d876af6c80fc04f35785bbc35da6a39f52682a932982949adb2157eee2da4699"
     },
     "learn": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/learn/SKILL.md",
       "computedHash": "bb0760b83ad2351c1218d0d4ed33913778df3a1e7f1e33475d0473960ee4564a"
     },
     "letter-from-future": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/letter-from-future/SKILL.md",
       "computedHash": "9bfed69f3ce553322e4b6d722c34b5d88c16972ad675073b50ef02b0c670926b"
     },
     "loss-aversion-psychology": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/loss-aversion-psychology/SKILL.md",
       "computedHash": "39548e3e1292d72244223705b0014aaab1a70b1807c175273cbcc6fe88789914"
     },
     "making-product-decisions": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/making-product-decisions/SKILL.md",
       "computedHash": "f95ae27a2267300aa13432a40add8d37952e9dab341b34adb678d7865d857166"
     },
     "naming-cheatsheet": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/naming-cheatsheet/SKILL.md",
       "computedHash": "a48cc0abdbcb611d8e08737a392969bce55f99410878ce5a7f7487fee59ee598"
     },
     "nextjs-image-art-direction": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/nextjs-image-art-direction/SKILL.md",
       "computedHash": "6ed16a97bb1fc12411f17ae2c315aa7cc03c3c80f9fbfeb4cf3ed32662d28ace"
     },
     "orchestrator-workers": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/orchestrator-workers/SKILL.md",
       "computedHash": "99787ced6fa9eecd3d103954e952be890f0dd1e5b47d2782be456f3c867fc71b"
     },
     "para-method": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/para-method/SKILL.md",
       "computedHash": "460c1739579bed4ab8703b968361dc8e9a3d3166bc29310183f7602fc8ff5019"
     },
     "parallelization": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/parallelization/SKILL.md",
       "computedHash": "d2ac2f275699b8bdbb852960926f6ac9fa0b12c5fbf2360781e56ca25e5b9185"
     },
     "pest-analysis": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/pest-analysis/SKILL.md",
       "computedHash": "113bbcb0b27bb89b7772c3f8ab8ea276f9e99d11ab90aea1b6520149e7411711"
     },
     "playwright-accessibility-testing": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/playwright-accessibility-testing/SKILL.md",
       "computedHash": "dbead34508b933127dad49bbe3d20415733a062fc2396f5b1811dabc504e29a4"
     },
     "playwright-best-practices": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/playwright-best-practices/SKILL.md",
       "computedHash": "7b3eaaaaa4979f5f2b6e3d145cdef1eb7ed18f6ff73c8d1cc473aeb0b070a052"
     },
     "progressive-disclosure": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/progressive-disclosure/SKILL.md",
       "computedHash": "780972c46cf80a85396c2cafcd9feb01b189049e3306c3297e721364c55a0687"
     },
     "project-structure": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/project-structure/SKILL.md",
       "computedHash": "1a22491f952030d0239e50def0a72f7db0ae1ad2e5bd25207104198c05d24502"
     },
     "prompt-chaining": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/prompt-chaining/SKILL.md",
       "computedHash": "ab3db37d604aa91f38b96f45605ef97f6bedb524ae2b44764549488ab1b34273"
     },
     "prompt-simplifier": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/prompt-simplifier/SKILL.md",
       "computedHash": "afefcdcbb22c8e9dd6dc7f44fa5794da68877b742d7bb229cb7666995e2c7ea7"
     },
     "react-hook-form": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-hook-form/SKILL.md",
       "computedHash": "268ee6171fcb627ad292f594ec04c80ec2e01d8137fd9e5a48c66243f5ccf7fc"
     },
     "react-key-prop": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-key-prop/SKILL.md",
       "computedHash": "aa11c5c2cd879263fd70a74ae0742b77153a63e79657e7d29f7fb051ec932b90"
     },
     "react-query-server-action-errors": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-query-server-action-errors/SKILL.md",
       "computedHash": "81501a70b3c54f81ebb8f3e26a2be471831fdb3f66af85742d4769f03150daf3"
     },
     "react-use-callback": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-use-callback/SKILL.md",
       "computedHash": "fcc28ca72b781b1cf3472ff8c7c6de700898bfab2e27e549c4db383c925b47b3"
     },
     "react-use-client-boundary": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-use-client-boundary/SKILL.md",
       "computedHash": "659ee3f9bc2e54e20e756c229eec8fb8af97b18b0452ff4608b1f21b8ac6694a"
     },
     "react-use-state": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-use-state/SKILL.md",
       "computedHash": "860bf344b8f1f895ba2b76d9c530af581536e164cd95fa0a374b815640795e02"
     },
     "react-useeffect-avoid": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/react-useeffect-avoid/SKILL.md",
       "computedHash": "7a9d891c908934a7472d604a1ac439648919468fe6771cfa2bad7e8e67ddeb2c"
     },
     "refactoring": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/refactoring/SKILL.md",
       "computedHash": "5226b0d26a54c7a3a19b5951809164ee18a459df5632ec4ed5d4639642b4bba5"
     },
     "requirements-analyzer": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/requirements-analyzer/SKILL.md",
       "computedHash": "733aed6c4b4b453636e084b3cdb64c9deabaa77925a3bd8d8c029d635a9003a2"
     },
     "routing": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/routing/SKILL.md",
       "computedHash": "ce7c01805f131ac57dac2dfe7a792b81406ef517ff2eca8638f2da9632f5dea5"
     },
     "self-initiated-triggers": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/self-initiated-triggers/SKILL.md",
       "computedHash": "9aa0d4b7095563118133afee13c8a2a67ed33ec3accceafa27a11fc2f31f56ec"
     },
     "slack": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/slack/SKILL.md",
       "computedHash": "be8f1aded2fcf7044d2f705742c296f64d5ece48fb9f813dc4636f08a9de88ed"
     },
     "social-proof-psychology": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/social-proof-psychology/SKILL.md",
       "computedHash": "6251309752df7def63d607e0d74abd187b468a2b2f56dbaaa0411d91c886bba2"
     },
     "status-quo-bias": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/status-quo-bias/SKILL.md",
       "computedHash": "d569f8c398f7de69acc53852b843739e1690a076d50f6bc44b1aa279766ed338"
     },
     "summarize-branch": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/summarize-branch/SKILL.md",
       "computedHash": "edea1245d41eb71f519a9c8ebfc3fd65f0624264fdd745d4d773227d0fcbc23b"
     },
     "tailwind-v4-configuration": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/tailwind-v4-configuration/SKILL.md",
       "computedHash": "93b80382ebb09c618f60dc79a8ab79a8f86b0f9d146991e1625268e7200c8ec8"
     },
     "theme-epic-story": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/theme-epic-story/SKILL.md",
       "computedHash": "c246af45311c2153c4c04dffcf7086667301f7ea0ef571fe28ecfbf2319b8375"
     },
     "to-prd": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/to-prd/SKILL.md",
       "computedHash": "6dd78e9926c69a32dcfb87d02b70b5e75ab705fdf1044c3a9626e9e3f0f90b02"
     },
     "trust-psychology": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/trust-psychology/SKILL.md",
       "computedHash": "64d03f3de802fa6469c2f3e310cf00f2f0124e5a0fa55e7c7ef3fd05f542741f"
     },
     "typescript-advanced-types": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/typescript-advanced-types/SKILL.md",
       "computedHash": "a09fc7daf58a4f4488e72e56f6f819cd57f7badfcc42529b89f7e1ae88edb474"
     },
     "typescript-best-practices": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/typescript-best-practices/SKILL.md",
       "computedHash": "addcc46b24c4f7e52e6cc3ba304fef6df9315768f13d785e58f926875e7da8ba"
     },
     "typescript-interface-vs-type": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/typescript-interface-vs-type/SKILL.md",
       "computedHash": "86c61afae03ea54f9ef1ca73096ae65a02727186eba346626eeafc7956355521"
     },
     "typescript-satisfies-operator": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/typescript-satisfies-operator/SKILL.md",
       "computedHash": "38cea34850a69042309f3fe281e2aab86cce9f92e3c018e5107926891f139c12"
     },
     "user-story-fundamentals": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/user-story-fundamentals/SKILL.md",
       "computedHash": "c67dd4bab5ce97f3e1fa696d05e2d8f8c73b7804377035dc763ea60f61e8ca3c"
     },
     "value-realization": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/value-realization/SKILL.md",
       "computedHash": "5c430c7465178674e8c1d6025732e26b45260426b306d3e0587978c830e32ab2"
     },
     "vercel-sandbox": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/vercel-sandbox/SKILL.md",
       "computedHash": "af44c51cac7d83776061bd41c1e55062accf6bce044a05c29611b643cb7b3d6b"
     },
     "visual-cues-cta-psychology": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/visual-cues-cta-psychology/SKILL.md",
       "computedHash": "b24d506245a063585780412eca365ba9be610fc17eb3bb5a908ab5905bd12343"
     },
     "what-not-to-do-as-product-manager": {
-      "source": "flpbalada/fb-skills",
+      "source": "LennartKoehler/agent_skills",
       "sourceType": "github",
       "skillPath": "skills/what-not-to-do-as-product-manager/SKILL.md",
       "computedHash": "b16f7577a8e7169198a11f93c6c9bf1bf7cefe1a7b0d5197c1a34295fd39f2a7"
