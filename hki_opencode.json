@@ -9,7 +9,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "local",
       "options": {
-        "baseURL": "https://asb.hki-jena.de/lllm/v1",
+        "baseURL": "{env:LOCAL_LLM_URL}",
         "apiKey": "{env:LOCAL_LLM_API_KEY}"
       },
       "models": {
