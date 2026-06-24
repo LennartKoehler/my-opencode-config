@@ -1,9 +1,5 @@
 ## About Me
 
-**Name:** Filip
-**Role:** Software developer with a background in product management
-**Location:** Czechia, Prague
-
 ### Language Preferences
 
 - English
