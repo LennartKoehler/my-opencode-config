@@ -80,8 +80,9 @@
     },
 
     "edit": {
-      "*": "ask",
+      "*": "allow",
       "*.cpp": "allow",
+      "*.java": "allow",
       "*.py": "allow",
       "*.h": "allow",
       "*.cu": "allow",
@@ -103,9 +104,11 @@
       "echo*": "allow",
       "sed*": "allow",
       "head*": "allow",
+      "grep*": "allow",
       "mkdir*": "allow",
       "cd*": "allow",
       "find*": "allow",
+      "sort*": "allow",
       "file*": "allow",
 
       "git status*": "allow",
