@@ -5,7 +5,8 @@
   },
   "plugin": [
     "@franlol/opencode-md-table-formatter@0.0.3",
-    "@mohak34/opencode-notifier@latest"
+    "@mohak34/opencode-notifier@latest",
+    "opencode-parser"
   ],
   "default_agent": "build",
   "mcp": {
@@ -44,8 +45,8 @@
                 "output": 60000
           }
         },
-        "vllm/coder": {
-          "name": "coder",
+        "vllm/small": {
+          "name": "small",
           "limit": {
                 "context": 128000,
                 "output": 60000
