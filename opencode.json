@@ -73,6 +73,7 @@
   "permission": {
     "*": "ask",
 
+    "rea_*": "deny",
 
     "skill": "allow",
     "read": "allow",
