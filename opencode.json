@@ -37,10 +37,11 @@
         "mcp"
       ],
       "enabled": true,
-      "environment": {
-        "GHIDRA_INSTALL_DIR": "/home/lennart-k-hler/ghidra_12.1.4_PUBLIC",
-        "JAVA_HOME": "/usr/lib/jvm/java-21-openjdk-amd64"
-      }
+        "environment": {
+            "GHIDRA_INSTALL_DIR": "/home/lennart-k-hler/ghidra_12.1.4_PUBLIC",
+            "JAVA_HOME": "/usr/lib/jvm/java-21-openjdk-amd64",
+            "REA_MCP_INPUT_SCHEMA_PROFILE": "compact"
+        }
     }
   },
   "provider": {
@@ -55,8 +56,8 @@
         "vllm/frontier": {
           "name": "frontier",
           "limit": {
-                "context": 200000,
-                "output": 60000
+                "context": 500000,
+                "output": 200000
           }
         },
         "vllm/small": {
