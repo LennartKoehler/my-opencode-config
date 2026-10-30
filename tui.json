@@ -8,6 +8,11 @@
     "input_delete_to_line_start": "none",
     "stash_delete": "none",
     "input_delete": "delete,shift+delete",
-    "app_exit": "ctrl+c,<leader>q",
+    "app_exit": "ctrl+c,<leader>q"
+  }
+  "attention": {
+    "enabled": true,
+    "notifications": true,
+    "sound": false
   }
 }

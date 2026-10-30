@@ -1,13 +1,49 @@
 {
   "$schema": "https://opencode.ai/config.json",
   "experimental": {
-    "disable_paste_summary": true,
+    "disable_paste_summary": true
   },
   "plugin": [
     "@franlol/opencode-md-table-formatter@0.0.3",
-    "@mohak34/opencode-notifier@latest"
+    "@mohak34/opencode-notifier@latest",
+    "opencode-parser"
   ],
   "default_agent": "build",
+  "mcp": {
+    "context7": {
+      "type": "remote",
+      "url": "https://mcp.context7.com/mcp",
+      "enabled": true
+    },
+    "exa": {
+      "type": "remote",
+      "url": "https://mcp.exa.ai/mcp",
+      "enabled": true,
+      "headers": {
+        "Authorization": "Bearer ${EXA_API_KEY}"
+      }
+    },
+    "playwright": {
+      "type": "local",
+      "command": ["npx", "-y", "@playwright/mcp@latest"],
+      "enabled": true
+    },
+    "rea": {
+      "type": "local",
+      "command": [
+        "npx",
+        "-y",
+        "rea-agents@6.4.0",
+        "mcp"
+      ],
+      "enabled": true,
+        "environment": {
+            "GHIDRA_INSTALL_DIR": "/home/lennart-k-hler/ghidra_12.1.4_PUBLIC",
+            "JAVA_HOME": "/usr/lib/jvm/java-21-openjdk-amd64",
+            "REA_MCP_INPUT_SCHEMA_PROFILE": "compact"
+        }
+    }
+  },
   "provider": {
     "local": {
       "npm": "@ai-sdk/openai-compatible",
@@ -20,12 +56,12 @@
         "vllm/frontier": {
           "name": "frontier",
           "limit": {
-                "context": 200000,
-                "output": 60000
+                "context": 500000,
+                "output": 200000
           }
         },
-        "vllm/coder": {
-          "name": "coder",
+        "vllm/small": {
+          "name": "small",
           "limit": {
                 "context": 128000,
                 "output": 60000
@@ -38,6 +74,7 @@
   "permission": {
     "*": "ask",
 
+    "rea_*": "deny",
 
     "skill": "allow",
     "read": "allow",
@@ -60,8 +97,9 @@
     },
 
     "edit": {
-      "*": "ask",
+      "*": "allow",
       "*.cpp": "allow",
+      "*.java": "allow",
       "*.py": "allow",
       "*.h": "allow",
       "*.cu": "allow",
@@ -83,9 +121,11 @@
       "echo*": "allow",
       "sed*": "allow",
       "head*": "allow",
+      "grep*": "allow",
       "mkdir*": "allow",
       "cd*": "allow",
       "find*": "allow",
+      "sort*": "allow",
       "file*": "allow",
 
       "git status*": "allow",
