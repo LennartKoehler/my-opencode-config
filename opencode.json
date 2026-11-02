@@ -53,24 +53,29 @@
         "apiKey": "{env:LOCAL_LLM_API_KEY}"
       },
       "models": {
-        "vllm/frontier": {
-          "name": "frontier",
+        "aquifer": {
+          "name": "aquifer",
           "limit": {
-                "context": 500000,
-                "output": 200000
+                "context": 450000,
+                "output": 32000
           }
         },
-        "vllm/small": {
-          "name": "small",
+        "vllm/boulder": {
+          "name": "boulder",
           "limit": {
-                "context": 128000,
-                "output": 60000
+                "context": 450000,
+                "output": 32000
           }
+        },
+
+            "cobble": {
+                "name": "HKI Medium (Cobble)",
+                "limit": {"context": 500000, "output": 32000}
         }
       }
     }
   },
-  "model": "local/vllm/frontier",
+  "model": "local/aquifer",
   "permission": {
     "*": "ask",
 
