@@ -9,7 +9,7 @@
     "stash_delete": "none",
     "input_delete": "delete,shift+delete",
     "app_exit": "ctrl+c,<leader>q"
-  }
+  },
   "attention": {
     "enabled": true,
     "notifications": true,
