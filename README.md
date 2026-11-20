@@ -60,7 +60,6 @@ The full skills library now lives in [`flpbalada/fb-skills`](https://github.com/
 
 ## Plugins
 
-- `@franlol/opencode-md-table-formatter@0.0.3` — Markdown table formatting
 - `@mohak34/opencode-notifier@latest` — Desktop notifications
 
 ## Resources

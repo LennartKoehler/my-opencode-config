@@ -1,0 +1,28 @@
+{
+  "$schema": "https://opencode.ai/v2/cli.json",
+  "keybinds": {
+    "leader": "ctrl+x",
+    "app.exit": "ctrl+c,<leader>q",
+    "session.delete": "none",
+    "stash.delete": "none",
+    "session.page.up": "ctrl+u",
+    "session.page.down": "ctrl+d",
+    "input.delete.to.line.start": "none",
+    "input.delete": "delete,shift+delete"
+  },
+  "attention": {
+    "enabled": false,
+    "notifications": true,
+    "sound": false
+  },
+  "diffs": {
+    "wrap": "word"
+  },
+  "session": {
+    "sidebar": "auto",
+    "scrollbar": false,
+    "thinking": "hide",
+    "permissions": "autoaccept"
+  },
+  "animations": true
+}
