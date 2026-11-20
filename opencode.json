@@ -3,10 +3,10 @@
   "experimental": {
     "disable_paste_summary": true
   },
-  "plugin": [
-    "@franlol/opencode-md-table-formatter@0.0.3",
+  "plugins": [
     "@mohak34/opencode-notifier@latest",
-    "opencode-parser"
+    "opencode-parser",
+    "superpowers@git+https://github.com/obra/superpowers.git"
   ],
   "default_agent": "build",
   "mcp": {
